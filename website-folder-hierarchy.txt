@@ -1,0 +1,6 @@
+сайт
+├── fonts
+├── images
+├── pages
+├── styles
+└── icons
